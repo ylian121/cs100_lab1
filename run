@@ -1,0 +1,5 @@
+cs 100
+run with makefile
+or 
+g++ -o hello hello.cpp
+./hello
